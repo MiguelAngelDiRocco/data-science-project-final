@@ -51,4 +51,4 @@ Miguel Ángel Di Rocco
 
 ## ✅ Estado del proyecto
 
-> ✔️ Proyecto entregado.
+> ✔️ Aprobado (10).
